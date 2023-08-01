@@ -1,5 +1,6 @@
 # Brain-Tumor-Segmentation
-##Introduction
+
+## Introduction
 Welcome to the Brain Tumor Segmentation project repository! This self-project aims to develop a brain tumor segmentation system capable of identifying and delineating four classes of brain tumors in MRI scans: background, edema, non-enhancing tumor, and enhancing tumor. The project utilizes convolutional neural networks (CNNs), particularly the U-Net model, and makes use of various neuroimaging libraries for visualization and analysis.
 
 ## Dataset
