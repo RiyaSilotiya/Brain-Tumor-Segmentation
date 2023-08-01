@@ -17,4 +17,4 @@ The U-Net model is a deep learning architecture commonly used for semantic segme
 The trained models were evaluated using multiple metrics, including Accuracy, Precision, Dice coefficient, Specificity, and Sensitivity. These metrics provided a comprehensive understanding of the model's performance.
 
 ## Results
-The trained U-Net model has shown remarkable performance in accurately identifying and delineating background, edema, non-enhancing tumor, and enhancing tumor regions in brain MRI scans, achieving an impressive accuracy of 98.4% on the test set. This demonstrates its effectiveness and potential as a powerful tool for brain tumor segmentation, aiding medical professionals in diagnosis and treatment planning.
+The trained U-Net model has demonstrated excellent performance in accurately identifying and delineating background, edema, non-enhancing tumor, and enhancing tumor regions in brain MRI scans, achieving an accuracy of 98.4% on the test set.
